@@ -5,7 +5,7 @@ The 2 C++ source files are :
 2. Tic_tac_toe_small.cpp
 
 Ultimate_tictactoe.cpp executes the playable code. 
-It inherits froms Tic_tac_toe_small.cpp, however this file is not meant to be executed.
+It inherits from Tic_tac_toe_small.cpp, however this file is not meant to be executed.
 
 Keep both files in the same folder and run "Ultimate_tictactoe.cpp" file  using any GNU GCC C++ Compiler.
 
